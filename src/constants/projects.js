@@ -37,7 +37,7 @@ export const projects = [
     ],
     category: 'react',
     featured: true,
-    liveDemo: 'https://szm96dev.github.io',
+    liveDemo: 'https://hussnain-react-portfolio.netlify.app/',
     github: 'https://github.com/HussnainAshiq-5657/React-Portfolio',
     preview: '/project-previews/portfolio-preview.png',
   },

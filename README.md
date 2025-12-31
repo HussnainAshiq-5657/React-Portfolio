@@ -6,7 +6,7 @@ A modern, responsive portfolio website showcasing my expertise in React developm
 
 ## 🚀 Live Portfolio
 
-**[Visit My Portfolio →](https://szm96dev.github.io/)**
+**[Visit My Portfolio →](https://hussnain-react-portfolio.netlify.app/)**
 
 ## ✨ Portfolio Features
 
@@ -62,7 +62,6 @@ A modern, responsive portfolio website showcasing my expertise in React developm
 - **Reusable UI**: Modular component architecture
 - **Consistent Spacing**: Tailwind's spacing scale
 - **Smooth Animations**: CSS transitions and transforms
-- **Accessibility**: WCAG 2.1 AA compliant
 
 ## ⚡ Performance Features
 
@@ -86,7 +85,7 @@ A modern, responsive portfolio website showcasing my expertise in React developm
 
 **Muhammad Hussnain Ashiq** - Frontend Developer
 
-- **Portfolio**: [https://szm96dev.github.io/](https://szm96dev.github.io/)
+- **Portfolio**: [Hussnain Ashiq Portfolio](https://hussnain-react-portfolio.netlify.app/)
 - **Email**: hussnainashiqforjob@gmail.com
 - **GitHub**: [@HussnainAshiq](https://github.com/HussnainAshiq-5657)
 - **LinkedIn**: [@Muhammed Hussnain Ashiq](https://www.linkedin.com/in/hussnainnaz-dev/)

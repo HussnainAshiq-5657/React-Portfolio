@@ -14,7 +14,6 @@
     "react-toastify": "^10.0.6",
     "yup": "^1.7.1"
   },
-  "homepage": "https://HussnainAshiq-5657.github.io/React-Portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
