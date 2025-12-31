@@ -39,8 +39,8 @@ A modern, responsive portfolio website showcasing my expertise in React developm
 
 - **Tech Stack**: React, Redux, Material-UI, Formik, Yup
 - **Features**: Product catalog, shopping cart, authentication, wishlist
-- **Live Demo**: [szm-markethub.netlify.app](https://szm-markethub.netlify.app)
-- **GitHub**: [github.com/szm96dev/MarketHub](https://github.com/szm96dev/MarketHub)
+- **Live Demo**: [market-hub-react.netlify.app/](https://market-hub-react.netlify.app/)
+- **GitHub**: [github.com/HussnainAshiq-5657/Market-Hub-React'](https://github.com/HussnainAshiq-5657/Market-Hub-React')
 
 ## 🎨 Design System
 
