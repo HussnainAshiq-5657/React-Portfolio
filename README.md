@@ -30,26 +30,10 @@ A modern, responsive portfolio website showcasing my expertise in React developm
 ### **Performance & Optimization**
 
 - **Lazy Loading** - Component-level code splitting
-- **Memoization** - React optimization techniques
-- **Bundle Optimization** - Tree shaking and dynamic imports
 - **Image Optimization** - Responsive images with lazy loading
 - **Critical CSS** - Inlined critical styles for faster loading
 
 ## 🎯 Featured Projects
-
-### **CineSearch** - Movie Discovery Platform
-
-- **Tech Stack**: React, TailwindCSS, OMDb API, Axios
-- **Features**: Real-time search, movie details, favorites, dark/light mode
-- **Live Demo**: [sm-cinesearch.netlify.app](https://sm-cinesearch.netlify.app)
-- **GitHub**: [github.com/szm96dev/cinesearch](https://github.com/szm96dev/cinesearch)
-
-### **Easy Split** - Expense Management App
-
-- **Tech Stack**: React, Redux Toolkit, Formik, Yup, TailwindCSS
-- **Features**: Smart calculations, balance tracking, group management
-- **Live Demo**: [sz-easysplit.netlify.app](https://sz-easysplit.netlify.app)
-- **GitHub**: [github.com/szm96dev/easy-split](https://github.com/szm96dev/easy-split)
 
 ### **MarketHub** - E-commerce Platform
 
@@ -57,13 +41,6 @@ A modern, responsive portfolio website showcasing my expertise in React developm
 - **Features**: Product catalog, shopping cart, authentication, wishlist
 - **Live Demo**: [szm-markethub.netlify.app](https://szm-markethub.netlify.app)
 - **GitHub**: [github.com/szm96dev/MarketHub](https://github.com/szm96dev/MarketHub)
-
-### **TaskFlow** - Productivity App
-
-- **Tech Stack**: React, TailwindCSS, Heroicons, Custom Hooks
-- **Features**: Task management, filtering, categorization, statistics
-- **Live Demo**: [sz-taskflow.netlify.app](https://sz-taskflow.netlify.app)
-- **GitHub**: [github.com/szm96dev/taskflow](https://github.com/szm96dev/taskflow)
 
 ## 🎨 Design System
 
@@ -107,12 +84,12 @@ A modern, responsive portfolio website showcasing my expertise in React developm
 
 ## 📞 Contact
 
-**Sikandar Zubair** - Frontend Developer
+**Muhammad Hussnain Ashiq** - Frontend Developer
 
 - **Portfolio**: [https://szm96dev.github.io/](https://szm96dev.github.io/)
-- **Email**: szm96dev@gmail.com
-- **GitHub**: [@szm96dev](https://github.com/szm96dev)
-- **LinkedIn**: [@szm96dev](https://linkedin.com/in/szm96dev)
+- **Email**: hussnainashiqforjob@gmail.com
+- **GitHub**: [@HussnainAshiq](https://github.com/HussnainAshiq-5657)
+- **LinkedIn**: [@Muhammed Hussnain Ashiq](https://www.linkedin.com/in/hussnainnaz-dev/)
 
 ---
 
