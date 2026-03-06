@@ -3,8 +3,8 @@ export const experiences = [
   {
     id: 1,
     title: 'Frontend Developer Intern',
-    company: '9 Ways Technologies',
-    duration: 'June 2025 - Aug 2025',
+    company: 'OZ Developers pvt Ltd.',
+    duration: 'January 2026 ',
     type: 'Internship',
     description:
       'Worked on developing responsive web applications using React and modern frontend technologies. Collaborated with senior developers to implement new features and improve user experience.',

@@ -120,7 +120,7 @@ const Hero = () => {
                   href={personalInfo.cvUrl}
                   target="_blank"
                   rel="noopener noreferrer"
-                  download="Muhammad Hussnain Ashiq_CV.pdf"
+                  download="Muhammad Hussnain Ashiq Resume.pdf"
                   className="inline-flex items-center justify-center px-6 sm:px-8 py-3 text-base font-medium rounded-lg border-2 border-primary-600 text-primary-600 hover:bg-primary-600 hover:text-white transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2"
                 >
                   <svg

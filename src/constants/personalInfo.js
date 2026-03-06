@@ -16,7 +16,7 @@ export const personalInfo = {
   emailUrl: 'mailto:hussnainashiqforjob@gmail.com',
   phoneUrl: 'tel:+923288086451',
   locationUrl: 'https://maps.google.com/?q=Raiwind,+Lahore,+Pakistan',
-  cvUrl: process.env.PUBLIC_URL + '/cv/Muhammad Hussnain Ashiq_CV.pdf',
+  cvUrl: process.env.PUBLIC_URL + '/cv/Muhammad Hussnain Ashiq Resume.pdf',
 };
 
 // About section content
